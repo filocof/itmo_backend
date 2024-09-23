@@ -1,2 +1,1 @@
-## ДЗ 1 - Основы сети и Python Backend
-    uvicorn hw1.main:app 
+## ДЗ по курсу https://github.com/katunilya/hse-python-backend/tree/main 
