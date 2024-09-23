@@ -1,1 +1,2 @@
-## ДЗ по курсу https://github.com/katunilya/hse-python-backend/tree/main 
+## ДЗ по курсу Веб-разработка на Python
+  https://github.com/katunilya/hse-python-backend/tree/main 
